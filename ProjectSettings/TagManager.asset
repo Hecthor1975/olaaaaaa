@@ -44,9 +44,18 @@ TagManager:
   - name: fondo
     uniqueID: 928943295
     locked: 0
+  - name: casa
+    uniqueID: 3597577969
+    locked: 0
+  - name: suelo deco
+    uniqueID: 1947583459
+    locked: 0
   - name: atras
     uniqueID: 1929808521
     locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: agua
+    uniqueID: 3544357677
     locked: 0
