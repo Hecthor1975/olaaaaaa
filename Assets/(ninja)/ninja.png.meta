@@ -695,7 +695,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ninja-black-32x32_27
+      name: espada
       rect:
         serializedVersion: 2
         x: 8
@@ -716,7 +716,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ninja-black-32x32_28
+      name: cam E1
       rect:
         serializedVersion: 2
         x: 37
@@ -737,7 +737,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ninja-black-32x32_29
+      name: saltar1
       rect:
         serializedVersion: 2
         x: 69
@@ -758,7 +758,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ninja-black-32x32_30
+      name: atacar E1
       rect:
         serializedVersion: 2
         x: 99
@@ -842,7 +842,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ninja-black-32x32_34
+      name: espada2
       rect:
         serializedVersion: 2
         x: 8
@@ -863,7 +863,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ninja-black-32x32_35
+      name: cam E2
       rect:
         serializedVersion: 2
         x: 35
@@ -884,7 +884,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ninja-black-32x32_36
+      name: Saltar2
       rect:
         serializedVersion: 2
         x: 73
@@ -905,7 +905,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ninja-black-32x32_37
+      name: atacar E2
       rect:
         serializedVersion: 2
         x: 103
@@ -989,7 +989,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ninja-black-32x32_41
+      name: espada3
       rect:
         serializedVersion: 2
         x: 8
@@ -1010,7 +1010,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ninja-black-32x32_42
+      name: Cam E3
       rect:
         serializedVersion: 2
         x: 33
@@ -1052,7 +1052,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ninja-black-32x32_44
+      name: atacae E3
       rect:
         serializedVersion: 2
         x: 105
@@ -1115,7 +1115,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ninja-black-32x32_47
+      name: espada4
       rect:
         serializedVersion: 2
         x: 8
@@ -1136,7 +1136,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ninja-black-32x32_48
+      name: cam E4
       rect:
         serializedVersion: 2
         x: 36
@@ -1799,7 +1799,6 @@ TextureImporter:
     nameFileIdTable:
       ninja-black-32x32_13: -357039528
       3: -110009448
-      ninja-black-32x32_37: 2012952623
       ninja-black-32x32_65: 408580076
       ninja-black-32x32_60: 1855803961
       ninja-black-32x32_74: 1294241337
@@ -1808,26 +1807,27 @@ TextureImporter:
       ninja-black-32x32_18: 1035996698
       ninja-black-32x32_24: -2060854937
       ninja-black-32x32_57: 1044568315
-      ninja-black-32x32_41: -211661468
+      espada3: -211661468
       ninja-black-32x32_5: -882088105
-      ninja-black-32x32_48: 197272658
       ninja-black-32x32_50: 496613642
       ninja-black-32x32_75: 134418503
+      atacar E1: 1446685511
       ninja-black-32x32_71: -649137486
       cam: -1064616642
       ninja-black-32x32_33: 1922979806
       ninja-black-32x32_59: -1736076621
       cam1: 2100749189
-      ninja-black-32x32_27: -2055677378
       ninja-black-32x32_52: 1865777338
       ninja-black-32x32_72: -1066691705
       ninja-black-32x32_11: -1849989818
       caer: -811560064
-      ninja-black-32x32_29: -1337095743
+      espada2: -647564611
+      espada: -2055677378
       ninja-black-32x32_66: 1918411520
       ninja-black-32x32_76: 959114589
       quieto: 1703922479
       ninja-black-32x32_31: -1827361862
+      saltar1: -1337095743
       ninja-black-32x32_45: 1814175601
       ninja-black-32x32_54: -3895312
       saltar: 964419074
@@ -1838,13 +1838,11 @@ TextureImporter:
       qui: -1754505686
       ninja-black-32x32_40: 858531210
       ninja-black-32x32_62: -2127647409
-      ninja-black-32x32_28: 324926848
-      ninja-black-32x32_35: 1121371503
+      Saltar2: 1090788520
+      saltaocaer: -1791495148
       2: -94258015
       ninja-black-32x32_25: 213894746
-      ninja-black-32x32_30: 1446685511
       ninja-black-32x32_46: -1570970227
-      saltaocaer: -1791495148
       ninja-black-32x32_38: -1556712237
       4: -1787832080
       ninja-black-32x32_64: -661246265
@@ -1853,28 +1851,30 @@ TextureImporter:
       quie: -1058599249
       ninja-black-32x32_58: -691723908
       ninja-black-32x32_73: 1096295479
-      ninja-black-32x32_34: -647564611
-      ninja-black-32x32_42: -838669894
+      Cam E3: -838669894
       ninja-black-32x32_78: -31517196
       ninja-black-32x32_68: 657333959
       ninja-black-32x32_51: -1541212141
       cam3: 1502030691
+      cam E4: 197272658
       ninja-black-32x32_56: 655992906
       ninja-black-32x32_6: 1067453171
+      cam E2: 1121371503
       ninja-black-32x32_26: 372492036
-      ninja-black-32x32_44: 1712200922
+      ninja-black-32x32_70: 196337551
       ninja-black-32x32_53: 1195676701
       ninja-black-32x32_12: -15377389
       ninja-black-32x32_32: 2130369269
       1: -710687400
       ninja-black-32x32_49: 221713322
-      ninja-black-32x32_36: 1090788520
+      cam E1: 324926848
       ninja-black-32x32_69: -1001256765
-      ninja-black-32x32_70: 196337551
       ninja-black-32x32_39: -126098214
       quiet: -1795627028
+      atacar E2: 2012952623
+      espada4: 678363664
       ninja-black-32x32_63: -742680741
-      ninja-black-32x32_47: 678363664
+      atacae E3: 1712200922
       ninja-black-32x32_61: -611423364
   spritePackingTag: 
   pSDRemoveMatte: 0
