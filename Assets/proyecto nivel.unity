@@ -2543,7 +2543,7 @@ SpriteRenderer:
   m_SortingLayer: -2
   m_SortingOrder: -1
   m_Sprite: {fileID: -459979223, guid: c934f8523a0cf48488d38987ee3b5c8c, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.5754717, g: 0.5754717, b: 0.5754717, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -2642,7 +2642,7 @@ SpriteRenderer:
   m_SortingLayer: -2
   m_SortingOrder: -1
   m_Sprite: {fileID: 1212401700, guid: c934f8523a0cf48488d38987ee3b5c8c, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.5754717, g: 0.5754717, b: 0.5754717, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -4849,7 +4849,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rigidbody2D: {fileID: 0}
-  typeOfControl: 1
+  typeOfControl: 0
   speed: 1000
   movementType: 1
   orientToDirection: 0
@@ -4919,7 +4919,7 @@ MonoBehaviour:
   happenOnlyOnce: 0
   filterByTag: 0
   filterTag: Player
-  keyToPress: 100
+  keyToPress: 275
   eventType: 1
   frequency: 0.5
 --- !u!114 &315122261
@@ -4966,7 +4966,7 @@ MonoBehaviour:
   happenOnlyOnce: 0
   filterByTag: 0
   filterTag: Player
-  keyToPress: 100
+  keyToPress: 275
   eventType: 0
   frequency: 0.5
 --- !u!114 &315122262
@@ -5027,7 +5027,7 @@ MonoBehaviour:
   happenOnlyOnce: 0
   filterByTag: 0
   filterTag: Player
-  keyToPress: 97
+  keyToPress: 276
   eventType: 1
   frequency: 0.5
 --- !u!114 &315122264
@@ -5074,7 +5074,7 @@ MonoBehaviour:
   happenOnlyOnce: 0
   filterByTag: 0
   filterTag: Player
-  keyToPress: 97
+  keyToPress: 276
   eventType: 0
   frequency: 0.5
 --- !u!114 &315122266
@@ -5121,7 +5121,7 @@ MonoBehaviour:
   happenOnlyOnce: 0
   filterByTag: 0
   filterTag: Player
-  keyToPress: 275
+  keyToPress: 100
   eventType: 1
   frequency: 0.5
 --- !u!114 &315122267
@@ -5168,7 +5168,7 @@ MonoBehaviour:
   happenOnlyOnce: 0
   filterByTag: 0
   filterTag: Player
-  keyToPress: 275
+  keyToPress: 100
   eventType: 0
   frequency: 0.5
 --- !u!61 &315122268
@@ -5241,7 +5241,7 @@ MonoBehaviour:
   happenOnlyOnce: 0
   filterByTag: 0
   filterTag: Player
-  keyToPress: 276
+  keyToPress: 97
   eventType: 1
   frequency: 0.5
 --- !u!114 &315122270
@@ -5288,7 +5288,7 @@ MonoBehaviour:
   happenOnlyOnce: 0
   filterByTag: 0
   filterTag: Player
-  keyToPress: 276
+  keyToPress: 97
   eventType: 0
   frequency: 0.5
 --- !u!114 &315122271
@@ -5416,7 +5416,7 @@ MonoBehaviour:
   happenOnlyOnce: 0
   filterByTag: 0
   filterTag: Player
-  keyToPress: 275
+  keyToPress: 100
   eventType: 1
   frequency: 0.5
 --- !u!114 &315122276
@@ -5451,7 +5451,7 @@ MonoBehaviour:
   happenOnlyOnce: 0
   filterByTag: 0
   filterTag: Player
-  keyToPress: 275
+  keyToPress: 100
   eventType: 0
   frequency: 0.5
 --- !u!114 &315122277
@@ -5486,7 +5486,7 @@ MonoBehaviour:
   happenOnlyOnce: 0
   filterByTag: 0
   filterTag: Player
-  keyToPress: 276
+  keyToPress: 97
   eventType: 1
   frequency: 0.5
 --- !u!114 &315122278
@@ -5521,7 +5521,7 @@ MonoBehaviour:
   happenOnlyOnce: 0
   filterByTag: 0
   filterTag: Player
-  keyToPress: 276
+  keyToPress: 97
   eventType: 0
   frequency: 0.5
 --- !u!114 &315122279
@@ -6939,7 +6939,7 @@ SpriteRenderer:
   m_SortingLayer: -1
   m_SortingOrder: 0
   m_Sprite: {fileID: 1212401700, guid: c934f8523a0cf48488d38987ee3b5c8c, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.5754717, g: 0.5754717, b: 0.5754717, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -8915,7 +8915,7 @@ SpriteRenderer:
   m_SortingLayer: -1
   m_SortingOrder: 0
   m_Sprite: {fileID: 1212401700, guid: c934f8523a0cf48488d38987ee3b5c8c, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.5754717, g: 0.5754717, b: 0.5754717, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -11160,7 +11160,7 @@ SpriteRenderer:
   m_SortingLayer: -1
   m_SortingOrder: 0
   m_Sprite: {fileID: -459979223, guid: c934f8523a0cf48488d38987ee3b5c8c, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.5283019, g: 0.5283019, b: 0.5283019, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -12310,7 +12310,7 @@ SpriteRenderer:
   m_SortingLayer: -1
   m_SortingOrder: 0
   m_Sprite: {fileID: 1212401700, guid: c934f8523a0cf48488d38987ee3b5c8c, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.5754717, g: 0.5754717, b: 0.5754717, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -18945,7 +18945,7 @@ SpriteRenderer:
   m_SortingLayer: -1
   m_SortingOrder: 0
   m_Sprite: {fileID: 1212401700, guid: c934f8523a0cf48488d38987ee3b5c8c, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.5754717, g: 0.5754717, b: 0.5754717, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -25935,7 +25935,7 @@ SpriteRenderer:
   m_SortingLayer: -1
   m_SortingOrder: 0
   m_Sprite: {fileID: 1212401700, guid: c934f8523a0cf48488d38987ee3b5c8c, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.5754717, g: 0.5754717, b: 0.5754717, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -26314,7 +26314,7 @@ SpriteRenderer:
   m_SortingLayer: -1
   m_SortingOrder: 0
   m_Sprite: {fileID: 1212401700, guid: c934f8523a0cf48488d38987ee3b5c8c, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.5754717, g: 0.5754717, b: 0.5754717, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -27554,7 +27554,7 @@ SpriteRenderer:
   m_SortingLayer: -2
   m_SortingOrder: -1
   m_Sprite: {fileID: -459979223, guid: c934f8523a0cf48488d38987ee3b5c8c, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
