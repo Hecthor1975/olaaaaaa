@@ -17,7 +17,7 @@ GameObject:
   - component: {fileID: 2087091928586704568}
   - component: {fileID: -942169176158841928}
   m_Layer: 0
-  m_Name: LaserBeam
+  m_Name: flecha
   m_TagString: Bullet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -30,14 +30,14 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 196000}
-  m_LocalRotation: {x: -0, y: -0, z: 0.7070793, w: 0.7071343}
-  m_LocalPosition: {x: 1172.5782, y: -217.6808, z: 0}
-  m_LocalScale: {x: 29.443447, y: 30.79895, z: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1, y: 1, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 0}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 89.996}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &21278666
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -79,9 +79,9 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
-  m_Sprite: {fileID: -1133744567, guid: 8b71fd7b495f3844f8f710d51e8b70c3, type: 3}
+  m_Sprite: {fileID: -416965490, guid: fa30eebbd424df54a861c0f009b99823, type: 3}
   m_Color: {r: 0.85294116, g: 0.86004055, b: 1, a: 1}
-  m_FlipX: 0
+  m_FlipX: 1
   m_FlipY: 0
   m_DrawMode: 0
   m_Size: {x: 1, y: 1}
@@ -107,7 +107,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 0.33, y: 0.2}
+    oldSize: {x: 9.28, y: 2.24}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
