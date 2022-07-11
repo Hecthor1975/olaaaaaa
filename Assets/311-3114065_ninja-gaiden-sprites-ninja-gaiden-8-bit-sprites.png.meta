@@ -33,7 +33,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -42,7 +42,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -76,9 +76,1713 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: 311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_0
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 355
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672b64a8b5a6ca7409ce692588a49d69
+      internalID: -1940303179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prin
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 355
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d44e388ffe56943b1e6337b80befad
+      internalID: -21038131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_2
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 316
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5033df11be5eb94b9ae296a452e5c19
+      internalID: -1176535235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_3
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 316
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8097f1a8ca0600742bf08b0711eecc50
+      internalID: 1472445855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_4
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 316
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7881b5b635713d49bde3f4af91ec617
+      internalID: -1385494390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_5
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 315
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4814392a2b5f6c4b88e1c1ca03ec429
+      internalID: -1797530127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prin 1
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 315
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30246f92cb2eda499228aaa1c38670e
+      internalID: -1767914348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr1
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 316
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb58aa54caa968743bd93417c363558e
+      internalID: -145159487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr2
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 316
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2fb31ea313d754099065bb38bdb0de
+      internalID: 756051046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correr3
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 316
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6f117e9def3b241a3ab72192fc8053
+      internalID: 816626910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_10
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 283
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6578aebd2c92134d915e1abfa922395
+      internalID: -1121695403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_11
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 279
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22d45ff4d6bc0a46920d416bddad714
+      internalID: -1492481950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_12
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 283
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3dd23d420e5774bbb309ed9943054a
+      internalID: 1443067041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_13
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 279
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e500566a976d4e468c5a8cb5136ab9e
+      internalID: 846098277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_14
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 276
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a3838564492fd40a1269258228d538
+      internalID: -1530045908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_15
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 276
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ed8352e6bf30740a124094cb142e24
+      internalID: -1611899456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_16
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 276
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 625042aeecd8dbb4ebdfadbab20aa23f
+      internalID: 450001069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saltar
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 276
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b2551ba6c9bbe48a3cb3d49dfa76d9
+      internalID: 21539066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saltar1
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 279
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c277539673bb049a3b5041709eee7e
+      internalID: 572637962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saltar2
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 283
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92fe9b69ba95bf4eabce90df6fe34d3
+      internalID: -1942819684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saltar3
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 279
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbed158c18df0b341800003c13d0c35f
+      internalID: -553813494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saltar4
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 283
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569bcbb17a978524085748dc6e9aa07a
+      internalID: -309613936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_22
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 240
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a1acbad6de2ee4ca24e1af7ccd105c
+      internalID: 830714740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_23
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 239
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d589df72907f4443be0b18d543cfaab
+      internalID: -192280240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_24
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 239
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4547afad417694a4ebee183a03ad4670
+      internalID: 2069222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_25
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 235
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b00723fff00064fad8df3ad74d279e
+      internalID: 8116253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_26
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 235
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687e6e43626774b4fa37f3cf2c8ba45c
+      internalID: -56301703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suelo
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 239
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b61505e05b0a34e9750b6ed864241d
+      internalID: 374159733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suelo1
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 239
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a9be6b3d05dc84799360b2142ec39c
+      internalID: -608817757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_29
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 240
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd38b5a1f8abff428b0eaf687cd1f01
+      internalID: -28862012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_30
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 193
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab6b932028d19e40838d0a5e672cc8d
+      internalID: -968860922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_31
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 193
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10fd93a54e63c354aa6e4ecd1f149085
+      internalID: 578041602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_32
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 194
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c67589c87752bef45a6d25d4d29e884d
+      internalID: -1154391921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_33
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 193
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05dc75b440cce384a8f5a3358f73d7d3
+      internalID: 1363737806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_34
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 193
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1ba7b3e6b3e1148bdb16c120981bdb
+      internalID: 257040210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_35
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 194
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2512e6b77981849935a2584e38ff45
+      internalID: 315908672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_36
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 193
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15eabff53c798a74dad8d2a0592c31df
+      internalID: 1565183866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_37
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 193
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c4974d6780989428ccab64bc48bb8a
+      internalID: 126671910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 156
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e319241b30ce3459c17f8d116431ea
+      internalID: 865308361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_39
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 156
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0fd7ec8b2eac994aaa4245f9af38007
+      internalID: -1681496625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_40
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 156
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e3167d07f5a4142afb9dba11077a49
+      internalID: -1957014831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_41
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 157
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 939ed2bdbd495404f8664fe0f3d787f9
+      internalID: -1119373910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_42
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 156
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af1029001c8c494ab6a146b6eddb34c
+      internalID: 831987261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_43
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 156
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c70efbd0183c9d418a46d6f102fa769
+      internalID: -305231142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_44
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 157
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3282c7e03d614248836888024171464
+      internalID: -1489051615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_45
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 156
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a2f6b166e85af46aa7c05c2200b743
+      internalID: 1522324554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_46
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 156
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f2d16f32fe01845a6bb7be350f0d73
+      internalID: 126899935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_47
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 156
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3cb88e40bf41b4daee4facb3cf745a
+      internalID: 283494503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_48
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 117
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216e0a3aa637e6d4587527d5ab616db4
+      internalID: 473906299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_49
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 117
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b9672570d6217419b87e49344626de
+      internalID: -550336564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_50
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 117
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b69f12c4a0fd34c839b1414dc48b8c
+      internalID: 467490148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_51
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 116
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77c3b6fb3081e84a90744af75cc78fc
+      internalID: -914442239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atacar
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 116
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f9c7f598c3dda4fa9aa1ca1b52368f
+      internalID: -1990525392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atacar1
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 117
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7191d24f98cd82a4ea2db2e34f5c4da9
+      internalID: 1880843504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataca
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 117
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7780743377465fa448efe16ef628bab4
+      internalID: -1590419001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atacar4
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 117
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc6e323d8728d54db4c754c4bb1c24c
+      internalID: -339145301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_56
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 87
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d80d54755712dae4c8131f1a4b91e04c
+      internalID: -613871468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_57
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 76
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4f6188f58e3d24888f9924aa664444
+      internalID: 1375611509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_58
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 86
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1161f2ce56c8445af068d329917922
+      internalID: 1356580112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_59
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 77
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae5bd5d48681fd4ba39444cefc29f0b
+      internalID: -412634495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_60
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 77
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2da3c54cc1f3604ba8ad5e9a9335da3
+      internalID: 2092867903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bala
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 84
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0ccb42152d20a47a1b6942a3660cef
+      internalID: -1133744567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_62
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 76
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a59f3f48871a841b8b610fdc859da1
+      internalID: 1016882691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_63
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 87
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066c44278540706449189b115b8819d8
+      internalID: 402536169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_64
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 36
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5a4ea9a20aec54886169f971da4b41
+      internalID: 2023973930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_65
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 36
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4d76980d7573446ada0afaabd73170
+      internalID: 2002826832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_66
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 36
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4253cf73929dc348b5afd73d0d8ba95
+      internalID: 1708631177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_67
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 36
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef35f4da650037478f8dc44b4572899
+      internalID: -1997914269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_68
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 36
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8d28264b2b62e4e8a358bf270caec0
+      internalID: 900789614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_69
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 36
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b74222740756f45af150479ab6476a
+      internalID: 1693787354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_70
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 36
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0fa93f1e818e44789b2323e4d2f311
+      internalID: 1324102891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_71
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 36
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93fc94e89c2c93a429e0cd5d897d15de
+      internalID: 1107280846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_72
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 3
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430eaf2359ab20241b721c5bf3fcf0d6
+      internalID: 2070780131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_73
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 0
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed8e1ddf19ff624c826d0312a579599
+      internalID: -1164638558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_74
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 0
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209bc8f832b98c742b67e377114f8c92
+      internalID: 1038296698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_75
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 0
+        width: 39
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab7e498923ba4144f895dc70902b79c5
+      internalID: -607440630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_76
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 0
+        width: 39
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8771e0eb57038044b91909c0429d2cfa
+      internalID: 1993443406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_77
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 0
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a6bab20902e7d40a3478cd2a1d5508
+      internalID: 1052633995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_78
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 0
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1081ef0fc2fc5f47aa0c9263669c520
+      internalID: -809357588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_79
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 3
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09fbac2bf159f0f418e37b56f6e808e4
+      internalID: -854131595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -89,7 +1793,87 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_12: 1443067041
+      311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_47: 283494503
+      311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_77: 1052633995
+      311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_29: -28862012
+      311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_40: -1957014831
+      311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_63: 402536169
+      311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_16: 450001069
+      311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_22: 830714740
+      311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_57: 1375611509
+      311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_66: 1708631177
+      311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_43: -305231142
+      311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_72: 2070780131
+      311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_14: -1530045908
+      311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_70: 1324102891
+      311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_23: -192280240
+      311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_51: -914442239
+      suelo: 374159733
+      suelo1: -608817757
+      311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_58: 1356580112
+      311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_41: -1119373910
+      prin: -21038131
+      311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_79: -854131595
+      prin 1: -1767914348
+      311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_59: -412634495
+      correr1: -145159487
+      311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_25: 8116253
+      atacar1: 1880843504
+      correr3: 816626910
+      correr2: 756051046
+      saltar3: -553813494
+      311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_0: -1940303179
+      311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_44: -1489051615
+      311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_50: 467490148
+      311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_68: 900789614
+      ataca: -1590419001
+      311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_32: -1154391921
+      saltar4: -309613936
+      311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_37: 126671910
+      311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_10: -1121695403
+      saltar1: 572637962
+      311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_64: 2023973930
+      311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_45: 1522324554
+      311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_69: 1693787354
+      311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_78: -809357588
+      311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_75: -607440630
+      311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_33: 1363737806
+      311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_73: -1164638558
+      atacar: -1990525392
+      saltar: 21539066
+      saltar2: -1942819684
+      311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_76: 1993443406
+      bala: -1133744567
+      311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_49: -550336564
+      311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_31: 578041602
+      311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_35: 315908672
+      311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_71: 1107280846
+      atacar4: -339145301
+      311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_13: 846098277
+      311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_15: -1611899456
+      311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_56: -613871468
+      311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_3: 1472445855
+      311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_65: 2002826832
+      311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_30: -968860922
+      311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_34: 257040210
+      311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_36: 1565183866
+      311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_24: 2069222
+      311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_48: 473906299
+      311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_2: -1176535235
+      311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_26: -56301703
+      311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_42: 831987261
+      311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_5: -1797530127
+      311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_62: 1016882691
+      311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_74: 1038296698
+      311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_39: -1681496625
+      311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_60: 2092867903
+      311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_67: -1997914269
+      311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_11: -1492481950
+      311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_46: 126899935
+      311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_4: -1385494390
+      311-3114065_ninja-gaiden-sprites-ninja-gaiden-8-bit-sprites_38: 865308361
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
