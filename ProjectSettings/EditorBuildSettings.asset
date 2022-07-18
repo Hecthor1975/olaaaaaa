@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/menu (Mamoru).unity
+    guid: abefcdb9af6b3bf4f8e4556206278482
+  - enabled: 1
     path: Assets/proyecto nivel.unity
     guid: 52f60f067c9c55b4ea0ad5f17ac9ea0f
   - enabled: 1
