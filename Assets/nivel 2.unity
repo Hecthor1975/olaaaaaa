@@ -9308,7 +9308,7 @@ MonoBehaviour:
   prefabToSpawn: {fileID: 196000, guid: e29bcad78356aeb4bbb6ffaa63902fa7, type: 3}
   keyToPress: 100
   creationRate: 1
-  shootSpeed: 100
+  shootSpeed: 150
   shootDirection: {x: 1, y: 0}
   relativeToRotation: 0
 --- !u!1 &662013177
@@ -14628,7 +14628,7 @@ MonoBehaviour:
   prefabToSpawn: {fileID: 196000, guid: e29bcad78356aeb4bbb6ffaa63902fa7, type: 3}
   keyToPress: 97
   creationRate: 1
-  shootSpeed: 100
+  shootSpeed: 150
   shootDirection: {x: -1, y: 0}
   relativeToRotation: 0
 --- !u!61 &1064878979
