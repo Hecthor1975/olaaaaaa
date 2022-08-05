@@ -41224,7 +41224,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: "Nota:\nLa espada tiene tiempo de ataque de 2 seg.\nPero haces m\xE1s da\xF1o
-    a los enemigos.\n"
+    a los enemigos.\npara usar la espada apreta el 2 y para guardar apreta 1."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -41287,7 +41287,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 6.155266, y: -0.19357228, z: 11.8834505, w: 4.755052}
+  m_margin: {x: 6.155266, y: -0.4253385, z: 11.8834505, w: 4.755052}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   _SortingLayer: 0
